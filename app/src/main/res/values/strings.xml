@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Gorun</string>
+    <string name="trackingOff">GORUN</string>
+    <string name="trackingOn">GOFF</string>
+    <string name="loading">Loading...</string>
+    <string name="no_location">No location available</string>
+    <string name="GpsOff">GPS not available</string>
+    <string name="refresh">Refresh</string>
+    <string name="setGps">Set GPS</string>
+    <string name="noConnection"> No connection</string>
+    <string name="getLocation"> Getting Location...</string>
+</resources>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "926815875148",
+    "firebase_url": "https://running-apps-6fe02.firebaseio.com",
+    "project_id": "running-apps-6fe02",
+    "storage_bucket": "running-apps-6fe02.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:926815875148:android:df803558aa1320b5",
+        "android_client_info": {
+          "package_name": "com.papbl.runningapps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "926815875148-kvied9c9u4q274jr3tt7eoprcd4tsig6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbf5PF3Dk9RgPTy90XJ3bemv_1Z3KP6Lw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "926815875148-kvied9c9u4q274jr3tt7eoprcd4tsig6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
